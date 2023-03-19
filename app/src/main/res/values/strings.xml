@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Telegram</string>
+    <string name="tme">t.me/theChane101</string>
+    <string name="info">Info</string>
+    <string name="notification">Notification</string>
+
+    <string name="tab_home_label">Home</string>
+    <string name="tab_profile_label">Profile</string>
+    <string name="tab_settings_label">Settings</string>
+
+
+    <string name="username">Mohammed Sofyan</string>
+    <string name="isOnline">online</string>
+    <string name="account">Account</string>
+    <string name="_970_123456789">+970 123456789</string>
+    <string name="tap_to_change_phone_number">Tap to change phone number</string>
+    <string name="usernameText">Username</string>
+    <string name="hastag">#</string>
+    <string name="bio">Bio</string>
+    <string name="abc123">\@abc123</string>
+    <string name="back_button">back button</string>
+    <string name="bar_code">bar code</string>
+    <string name="search_icon">search icon</string>
+    <string name="menu">menu</string>
+    <string name="channel_name">The chance</string>
+    <string name="channel_state">public channel</string>
+    <string name="file">File</string>
+    <string name="links">Links</string>
+    <string name="invite_link">Invite Link</string>
+    <string name="qr_code">QR Code</string>
+    <string name="on">On</string>
+    <string name="members">Members</string>
+    <string name="subscribers">subscribers</string>
+    <string name="subscribers_count">809</string>
+    <string name="administrator">administrator</string>
+    <string name="number_of_admins">1</string>
+    <string name="media">Media</string>
+</resources>
